@@ -1,0 +1,57 @@
+.thumbnail {
+  width: 40px;
+  border: 2px solid black;
+  padding: 0px;
+  float: left;
+  margin-right: 5px;
+}
+
+
+body {
+  background-color: #457E86;
+}
+
+
+p {
+  padding-left: 0px;
+  float: left;
+
+}
+
+
+td {
+  font-size:18px;
+  color: rgba(61, 122, 226, 0.92);
+}
+
+th {
+  font-size:18px;
+
+}
+
+
+table {
+  margin-top: 50px;
+  background-color: white;
+}
+
+.banner {
+  background-color: #381F0B;
+  color: white;
+  height: 60px;
+}
+
+.logo {
+  margin-top:10px;
+  width: 270px;
+}
+
+caption {
+  color:white;
+  font-size: 1.8em;
+  background-color: #381F0B;
+}
+
+.active {
+  text-decoration: underline;
+}
